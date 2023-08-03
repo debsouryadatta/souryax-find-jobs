@@ -23,3 +23,5 @@ npx create-expo-app -e with-router
 6. Creating the basic structure of Home Page
 7. Creating the ScreenHeaderBtn component
 8. Creating the Welcome component
+9. Creating the Popularjobs component
+10. Creating custom hook - useFetch and using it on other components
