@@ -16,7 +16,7 @@ npx create-expo-app -e with-router
 - [Expo Router: Repo](https://github.com/expo/router)
 
 
-### Steps of building the project
+### Steps for building the project
 1. Basic tags of React Native(Screenshots)
 2. Starting with the project - creating the app directory, _layout.js, index.js
 3. npm i expo-font axios react-native-dotenv
